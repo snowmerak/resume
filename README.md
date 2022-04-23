@@ -27,7 +27,9 @@
 
 ---
 
-# 개인 프로젝트
+# 프로젝트
+
+## 개인 프로젝트
 
 ### [lux](https://github.com/diy-cloud/lux)
 
@@ -54,6 +56,8 @@ virtualenv로 파이썬 가상 환경을 만들고 pip 의존성을 기록해주
 ### [follow-the-metric](https://github.com/codingpot/follow-the-metric)
 
 각 환율에 따른 화폐 가치 변환과 각 도량형 단위에 따른 단위 변환을 동시에 계산해주는 웹앱입니다. (예시: 3.29 USD / 1 gal = ? KRW / 1 litre)
+
+## 외부 프로젝트
 
 ---
 
