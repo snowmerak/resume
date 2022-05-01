@@ -47,10 +47,6 @@ go 언어를 위한 전역 로그 출력 라이브러리입니다.
 
 virtualenv로 파이썬 가상 환경을 만들고 pip 의존성을 기록해주는 파이썬 프로젝트 관리 툴입니다.
 
-### [smips](https://github.com/snowmerak/smips)
-
-간단한 형태의 명령어와 기능을 가지는 go로 짜여진 가상 머신입니다.
-
 ## 참여 프로젝트
 
 ### [vstruct](https://github.com/lemon-mint/vstruct)
