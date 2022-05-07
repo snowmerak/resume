@@ -41,11 +41,15 @@ go 언어의 net/http 기반으로 만든 간단한 HTTP 서버 프레임워크�
 
 ### [logstream](https://github.com/diy-cloud/logstream)
 
-go 언어를 위한 전역 로그 출력 라이브러리입니다.
+go 언어를 위한 전역 로그 출력 라이브러리입니다. 동시성 트라이와 락프리 링버퍼를 사용하여 쓰레드 안전하게 출력합니다.
 
 ### [prew](https://github.com/snowmerak/prew)
 
 virtualenv로 파이썬 가상 환경을 만들고 pip 의존성을 기록해주는 파이썬 프로젝트 관리 툴입니다.
+
+### [fodman](https://github.com/snowmerak/fodman)
+
+flutter 프레임워크로 만든 podman을 위한 GUI 클라이언트입니다. 기본적인 가상 머신, 컨테이너, 이미지 관리를 제공합니다.
 
 ## 참여 프로젝트
 
