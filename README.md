@@ -25,9 +25,9 @@
 
 ## 인프라
 
-1. nats
-2. redis
-3. postgresql
+1. redis
+2. postgresql
+3. nats
 
 ---
 
