@@ -35,7 +35,7 @@
 
 ## 개인 프로젝트
 
-### [lux](https://github.com/diy-cloud/lux)
+### [lux](https://github.com/snowmerak/lux)
 
 go 언어의 net/http 기반으로 만든 간단한 HTTP 서버 프레임워크입니다.
 
